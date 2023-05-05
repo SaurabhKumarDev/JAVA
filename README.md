@@ -1,1 +1,1 @@
-# JAVA
+Greetings, I am Saurabh. I would like to provide some guidance on how to learn Java. Prior to delving into the practical aspects of Java programming, it is highly recommended to familiarize oneself with the theoretical fundamentals of the language. This will facilitate a deeper comprehension of the coding process and yield better results in the long run. Thank you for your attention and commitment to continuous learning.
