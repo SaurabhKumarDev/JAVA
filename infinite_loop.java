@@ -1,16 +1,13 @@
 public class infinite_loop {
-    
-    //Loop
-    public static int dowhileloop() {
-        int i=1;
+    public static void loop() {
+        int i=0;
         do {
-            System.out.println("loop is going on "+i);
-            i=i+1;
-        } while(i<=8);
-        dowhileloop();
-        return 0;
+            System.out.println("Hello");
+            i++;
+
+        } while (i>=1);
     }
     public static void main(String[] args) {
-        dowhileloop();
+        loop();
     }
 }
